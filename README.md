@@ -8,7 +8,7 @@ Proof-of-work mining is environmentally unsustainable due to the electricity use
 More information at [bitg.org](http://www.bitg.org)
 
 Please reach out at info@bitg.org
-
+嘎嘎嘎嘎嘎过过
 ## License
 
 Bitcoin Green Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
